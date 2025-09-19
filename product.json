@@ -1,0 +1,254 @@
+{
+  "product_categories": [
+    {
+      "id": "C001",
+      "name": "Gastrointestinal & Antacid Medicines",
+      "description": "Medicines that help manage acid reflux, gastric issues, and digestive discomfort.",
+      "products": [
+        {
+          "id": "P001",
+          "name": "ASSPRA-LP Capsules (Esomeprazole Magnesium & Levosulpiride)",
+          "product_category": "Gastrointestinal & Antacid Medicines",
+          "dosage_form": "Capsules",
+          "strength": "Not Visible",
+          "composition": "Esomeprazole Magnesium (EC) & Levosulpiride (SR) Capsules",
+          "therapeutic_category": "Gastrointestinal",
+          "indication": "Helps in managing acid reflux, gastritis, and associated digestive issues.",
+          "packaging_info": "10 x 10 Capsules",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P001.png",
+          "product_info": "ASSPRA-LP combines Esomeprazole and Levosulpiride to reduce stomach acidity and improve gastric motility. It provides relief from acid reflux and indigestion."
+        },
+        {
+          "id": "P002",
+          "name": "ORICER-DSR Capsules (Pantoprazole Sodium & Domperidone)",
+          "product_category": "Gastrointestinal & Antacid Medicines",
+          "dosage_form": "Capsules",
+          "strength": "Not Visible",
+          "composition": "Pantoprazole Sodium (EC) & Domperidone (SR) Capsules IP",
+          "therapeutic_category": "Gastrointestinal",
+          "indication": "Relieves gastric acidity, bloating, and related nausea.",
+          "packaging_info": "10 x 10 Capsules",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P002.png",
+          "product_info": "Oricer-DSR is a dual-action formulation that reduces acid secretion and improves gut motility, providing quick relief from acidity and bloating."
+        }
+      ]
+    },
+    {
+      "id": "C002",
+      "name": "Pain Relief & Anti-Inflammatory Medicines",
+      "description": "Medicines and gels designed to relieve pain, inflammation, and musculoskeletal conditions.",
+      "products": [
+        {
+          "id": "P003",
+          "name": "ORIPAIN Gel (Diclofenac Diethylamine, Linseed Oil, Methyl Salicylate & Menthol)",
+          "product_category": "Pain Relief & Anti-Inflammatory Medicines",
+          "dosage_form": "Gel",
+          "strength": "Not Visible",
+          "composition": "Diclofenac Diethylamine, Linseed Oil, Methyl Salicylate & Menthol Gel",
+          "therapeutic_category": "Analgesic / Anti-inflammatory",
+          "indication": "Provides relief from joint pain, muscle pain, and inflammation.",
+          "packaging_info": "30g Tube",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P003.png",
+          "product_info": "ORIPAIN Gel is a fast-acting topical analgesic that penetrates deeply to reduce inflammation and relieve pain in joints and muscles."
+        },
+        {
+          "id": "P004",
+          "name": "ICDOL-D Tablets (Paracetamol, Tramadol & Domperidone)",
+          "product_category": "Pain Relief & Anti-Inflammatory Medicines",
+          "dosage_form": "Tablets",
+          "strength": "Not Visible",
+          "composition": "Paracetamol, Tramadol & Domperidone Tablets",
+          "therapeutic_category": "Analgesic",
+          "indication": "Used for moderate to severe pain relief with anti-nausea support.",
+          "packaging_info": "10 x 10 Tablets",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P004.png",
+          "product_info": "ICDOL-D provides effective pain relief while preventing nausea, combining Paracetamol, Tramadol, and Domperidone in one formulation."
+        },
+        {
+          "id": "P005",
+          "name": "ORIPAIN-T Tablets (Aceclofenac & Tizanidine)",
+          "product_category": "Pain Relief & Anti-Inflammatory Medicines",
+          "dosage_form": "Tablets",
+          "strength": "Not Visible",
+          "composition": "Aceclofenac & Tizanidine Tablets",
+          "therapeutic_category": "Musculoskeletal Pain Relief",
+          "indication": "Effective in relieving back pain, muscle spasms, and joint stiffness.",
+          "packaging_info": "10 x 10 Tablets",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P005.png",
+          "product_info": "Oripain-T combines a muscle relaxant and anti-inflammatory agent, providing relief from acute musculoskeletal conditions."
+        },
+        {
+          "id": "P006",
+          "name": "PAINORI-P Tablets (Nimesulide and Paracetamol)",
+          "product_category": "Pain Relief & Anti-Inflammatory Medicines",
+          "dosage_form": "Tablets",
+          "strength": "Not Visible",
+          "composition": "Nimesulide and Paracetamol Tablets",
+          "therapeutic_category": "Analgesic / Antipyretic",
+          "indication": "Reduces pain, inflammation, and fever.",
+          "packaging_info": "10 x 10 Tablets",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P006.png",
+          "product_info": "PAINORI-P is a dual-action tablet that provides fast relief from pain and fever, combining the strength of Nimesulide and Paracetamol."
+        }
+      ]
+    },
+    {
+      "id": "C003",
+      "name": "Neurology & Psychiatry Medicines",
+      "description": "Medicines for neurological conditions and psychiatric care.",
+      "products": [
+        {
+          "id": "P007",
+          "name": "ORICALM Tablets (Clonazepam)",
+          "product_category": "Neurology & Psychiatry Medicines",
+          "dosage_form": "Mouth Dissolving Tablets",
+          "strength": "0.5 mg",
+          "composition": "Clonazepam Mouth Dissolving Tablets 0.5 mg",
+          "therapeutic_category": "Anti-anxiety / Anticonvulsant",
+          "indication": "Helps manage anxiety disorders and certain seizure conditions.",
+          "packaging_info": "10 x 10 Tablets",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P007.png",
+          "product_info": "ORICALM Tablets are quick-dissolving and provide effective management for anxiety and seizure-related conditions."
+        },
+        {
+          "id": "P008",
+          "name": "ORICALM-EC Tablets (Escitalopram Oxalate & Clonazepam)",
+          "product_category": "Neurology & Psychiatry Medicines",
+          "dosage_form": "Tablets",
+          "strength": "Not Visible",
+          "composition": "Escitalopram Oxalate & Clonazepam Tablets IP",
+          "therapeutic_category": "Antidepressant / Anxiolytic",
+          "indication": "Used in the treatment of depression and anxiety disorders.",
+          "packaging_info": "10 x 10 Tablets",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P008.png",
+          "product_info": "ORICALM-EC combines an antidepressant and anxiolytic agent to help improve mood and reduce anxiety symptoms."
+        }
+      ]
+    },
+    {
+      "id": "C004",
+      "name": "Vitamins, Minerals & Nutritional Supplements",
+      "description": "Essential supplements to support overall health and nutrition.",
+      "products": [
+        {
+          "id": "P009",
+          "name": "ORICAL Tablets (Calcium Citrate, Magnesium, Vitamin D3 & Zinc Sulphate)",
+          "product_category": "Vitamins, Minerals & Nutritional Supplements",
+          "dosage_form": "Tablets",
+          "strength": "Not Visible",
+          "composition": "Calcium Citrate, Magnesium, Vitamin D3 & Zinc Sulphate Tablets",
+          "therapeutic_category": "Nutritional Supplement",
+          "indication": "Supports bone health and prevents calcium deficiency.",
+          "packaging_info": "10 x 10 Tablets",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P009.png",
+          "product_info": "ORICAL Tablets provide a balanced combination of calcium, vitamin D3, and minerals essential for strong bones and overall health."
+        },
+        {
+          "id": "P010",
+          "name": "VITMIN-PORT Protein Powder",
+          "product_category": "Vitamins, Minerals & Nutritional Supplements",
+          "dosage_form": "Powder",
+          "strength": "200 gm",
+          "composition": "Protein Hydrolysate 10%, Carbohydrate, Fat, DHA 10%, Vitamin D3, Vitamin B5, Cyanocobalamin, Niacinamide, Folic Acid, Manganese sulphate, Magnesium oxide, Cupric Sulphate, Chromium, Zinc, Calcium, Sodium Chloride, Iodine",
+          "therapeutic_category": "Dietary Supplement",
+          "indication": "Promotes growth, provides energy, and supports overall health.",
+          "packaging_info": "200 gm Container",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P010.png",
+          "product_info": "VITMIN-PORT is a multi-nutrient enriched protein powder designed to provide balanced nutrition and energy for all age groups."
+        }
+      ]
+    },
+    {
+      "id": "C005",
+      "name": "Steroids & Anti-Inflammatory Agents",
+      "description": "Steroidal medicines used to reduce inflammation and manage immune-related conditions.",
+      "products": [
+        {
+          "id": "P011",
+          "name": "ICPRED-6 Tablets (Deflazacort)",
+          "product_category": "Steroids & Anti-Inflammatory Agents",
+          "dosage_form": "Tablets",
+          "strength": "6 mg",
+          "composition": "Deflazacort Tablets 6 mg",
+          "therapeutic_category": "Corticosteroid",
+          "indication": "Used in the treatment of inflammation and autoimmune conditions.",
+          "packaging_info": "10 x 10 Tablets",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P011.png",
+          "product_info": "ICPRED-6 is a corticosteroid tablet effective in reducing inflammation and managing various immune-related disorders."
+        }
+      ]
+    },
+    {
+      "id": "C006",
+      "name": "Cardiovascular Medicines",
+      "description": "Medicines to support cardiovascular health and manage cholesterol.",
+      "products": [
+        {
+          "id": "P012",
+          "name": "ASROSVA Capsules (Rosuvastatin & Aspirin)",
+          "product_category": "Cardiovascular Medicines",
+          "dosage_form": "Capsules",
+          "strength": "Not Visible",
+          "composition": "Rosuvastatin & Aspirin Capsules",
+          "therapeutic_category": "Cardiovascular",
+          "indication": "Helps lower cholesterol and prevent clot formation.",
+          "packaging_info": "10 x 10 Capsules",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P012.png",
+          "product_info": "ASROSVA Capsules combine Rosuvastatin and Aspirin to provide dual protection for heart health, reducing cholesterol and clot risks."
+        }
+      ]
+    },
+    {
+      "id": "C007",
+      "name": "Gynecology & Hormonal Medicines",
+      "description": "Hormonal medicines used in gynecological care and contraception.",
+      "products": [
+        {
+          "id": "P013",
+          "name": "ETHINONE Tablets (Drospirenone and Ethinylestradiol)",
+          "product_category": "Gynecology & Hormonal Medicines",
+          "dosage_form": "Tablets",
+          "strength": "Not Visible",
+          "composition": "Drospirenone and Ethinylestradiol Tablets IP",
+          "therapeutic_category": "Oral Contraceptive",
+          "indication": "Used as a contraceptive and for regulating menstrual cycles.",
+          "packaging_info": "21 Tablets per pack",
+          "regulatory_info": "Batch No. Not Visible | GMP Certified",
+          "safety_note": "Use only as directed by a healthcare professional.",
+          "image": "img/products/P013.png",
+          "product_info": "ETHINONE Tablets are oral contraceptives that help prevent pregnancy and also regulate hormonal balance in women."
+        }
+      ]
+    },
+    {
+      "id": "C008",
+      "name": "General Healthcare / Multisystem Support",
+      "description": "General healthcare products that support overall well-being and multiple health systems.",
+      "products": []
+    }
+  ]
+}
